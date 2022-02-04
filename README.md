@@ -1,9 +1,9 @@
 # #criptomonedas
 
-### [Administrador de citas para pacientes](https://megagringa.github.io/criptomonedas/index.html)
+### [Consulta de criptomonedas](https://megagringa.github.io/criptomonedas/index.html)
 
-Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
-         Solo se implementa js. 
+Proyecto que consulta lo que vale la criptomoneda - El proyecto viene con una estructura armada en html y css - 
+         Solo se implementa js para desarrollar y aprender. 
 
 
 ## Lenguajes y tecnologías.
@@ -13,9 +13,3 @@ Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en
 - Framework: Skeleton
 - Fichero: Normalize
 - JS(Javascript)
-
-- **Udemy**:
-    - Proyecto de práctica para mejorar skills.
-    
-- **Proyecto**:
-    - Consulta de Criptomonedas.
